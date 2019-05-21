@@ -5,4 +5,8 @@
 .purchase-card {
   width: 350px;
   box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+  padding: 1em
+}
+.purchase-card > .show-grid {
+padding: 1.5em;
 }
